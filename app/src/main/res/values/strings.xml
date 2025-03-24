@@ -49,17 +49,17 @@
     <string name="activity_about_title">About</string>
     <string name="activity_about_desc">Learn more about our mission</string>
 
-    <string name="background_story">In recent years, we\'ve witnessed a surge in incidents targeting women, children, and the elderly. These atrocities have grown increasingly alarming, urging us to seek a solution. Introducing Raksha, our innovative response to these challenges.\n\nRaksha empowers you by putting your safety back into your hands. We\'ve developed a comprehensive SMS Alert system that keeps your family and friends informed during times of distress.\n\nA project made by Group ID 4 (Atharva Sathe, Ishwari Dubewar, Neha Wakhare, Pranjal Shinde, Siddhesh Lohekar) </string>
+    <string name="background_story">In recent years, we\'ve witnessed a surge in incidents targeting women, children, and the elderly. These atrocities have grown increasingly alarming, urging us to seek a solution. Introducing Kavach, our innovative response to these challenges.\n\nKavach empowers you by putting your safety back into your hands. We\'ve developed a comprehensive SMS Alert system that keeps your family and friends informed during times of distress.\n\nA project made by Group ID 4 (Atharva Sathe, Ishwari Dubewar, Neha Wakhare, Pranjal Shinde, Siddhesh Lohekar) </string>
     <string name="whats_good">What\'s Good About This App?</string>
     <string name="intuitive_design">Intuitive Design</string>
     <string name="intuitive_design_desc">Navigate with ease through Kavach is user-friendly interface, crafted with intuitive design principles. From registration to accessing emergency features, every aspect of the app is designed to be effortlessly accessible, ensuring a seamless user experience.</string>
     <string name="effortless_registration">Empowering Safety</string>
-    <string name="effortless_registration_desc">Kavach empowers women to take control of their safety. By putting essential safety tools at their fingertips, including an SOS button and real-time tracking features, Raksha equips women with the means to protect themselves and assert their right to safety and security</string>
+    <string name="effortless_registration_desc">Kavach empowers women to take control of their safety. By putting essential safety tools at their fingertips, including an SOS button and real-time tracking features, Kavach equips women with the means to protect themselves and assert their right to safety and security</string>
     <string name="automatic_alerts">Automatic Alerts</string>
-    <string name="automatic_alerts_desc">With Kavach, help is just a tap away. The app is provided automatic alert system instantly notifies your selected contacts in case of an emergency, providing them with your precise location for swift assistance. Whether you are facing danger or simply need assistance, Raksha ensures that help arrives when you need it most.</string>
+    <string name="automatic_alerts_desc">With Kavach, help is just a tap away. The app is provided automatic alert system instantly notifies your selected contacts in case of an emergency, providing them with your precise location for swift assistance. Whether you are facing danger or simply need assistance, Kavach ensures that help arrives when you need it most.</string>
     <string name="meet_the_developer">Contact us</string>
     <string name="contact_email">kavach_app@gmail.com</string>
-<!-- I've edited the above text (email wala) from 'heer0451@gmail.com' to 'raksha_app@gmail.com' but the changes didn't reflect in the built app-->
+<!-- I've edited the above text (email) from 'heer0451@gmail.com' to 'kavach_app@gmail.com' but the changes didn't reflect in the built app-->
 
 
     <string name="contact_empty">Contact list is empty</string>
