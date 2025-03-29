@@ -13,10 +13,8 @@ In addition to these emergency features, the app provides users with access to a
 Overall, we've developed the app to serve as a powerful tool for enhancing personal safety and providing peace of mind to its users. Its combination of GPS sharing, safety tips, helpline numbers, and emergency services integration makes it a comprehensive solution for women's safety in today's world.
 
 
-<img src="https://github.com/user-attachments/assets/4d2dbae6-56cf-4f8a-9411-c60925f2749b" alt="Kavach_sign-up" style="width:50%; height:auto;">
-<img src="https://github.com/user-attachments/assets/8e949303-0f81-4d54-a10b-c7eaf98a8f33" alt="Kavach_sign-in" style="width:50%; height:auto;">
-
-![Kavach_email_verification]()
+<img src="https://github.com/user-attachments/assets/4d2dbae6-56cf-4f8a-9411-c60925f2749b" alt="Kavach_sign-up" style="width:50%; height:50%;">
+<img src="https://github.com/user-attachments/assets/8e949303-0f81-4d54-a10b-c7eaf98a8f33" alt="Kavach_email_verification" style="width:90%; height:auto;">
 ![Kavach_sign-in](https://github.com/user-attachments/assets/0621d0ce-01c6-4cd4-a0cb-29f754fd950b)
 
 ![Kavach_homepage](https://github.com/user-attachments/assets/261ef61f-d545-4d4f-a9af-16aab77fb141)
