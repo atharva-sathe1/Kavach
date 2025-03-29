@@ -17,11 +17,11 @@ Overall, we've developed the app to serve as a powerful tool for enhancing perso
 <img src="https://github.com/user-attachments/assets/8e949303-0f81-4d54-a10b-c7eaf98a8f33" alt="Kavach_email_verification" style="width:100%; height:auto;">
 <img src="https://github.com/user-attachments/assets/0621d0ce-01c6-4cd4-a0cb-29f754fd950b" alt="Kavach_sign-in" style="width:50%; height:50%;">
 
-![Kavach_homepage](https://github.com/user-attachments/assets/261ef61f-d545-4d4f-a9af-16aab77fb141)
-![Kavach_emergency_contacts](https://github.com/user-attachments/assets/a308ea4e-7b0d-45cd-b3f6-fc22f62092e7)
-![Kavach_settings](https://github.com/user-attachments/assets/c983306d-55bf-478e-b7d8-b73e7d93e35f)
-![Kavach_SMS_sent](https://github.com/user-attachments/assets/b451227d-b0f9-4e14-83ed-8fda974fd119)
+<img src="https://github.com/user-attachments/assets/261ef61f-d545-4d4f-a9af-16aab77fb141" alt="Kavach_homepage" style="width:50%; height:50%;">
+<img src="https://github.com/user-attachments/assets/a308ea4e-7b0d-45cd-b3f6-fc22f62092e7" alt="Kavach_emergency_contacts" style="width:50%; height:50%;">
+<img src="https://github.com/user-attachments/assets/c983306d-55bf-478e-b7d8-b73e7d93e35f" alt="Kavach_settings" style="width:50%; height:50%;">
+<img src="https://github.com/user-attachments/assets/b451227d-b0f9-4e14-83ed-8fda974fd119" alt="Kavach_SMS_sent" style="width:50%; height:50%;">
 
-![Kavach_safety_tips](https://github.com/user-attachments/assets/5de6f101-c028-4c93-92b4-d7c02615b579)
-![Kavach_helpline_numbers](https://github.com/user-attachments/assets/e0975331-aab6-40a6-bf22-4ff7524780ee)
-![Kavach_about_1](https://github.com/user-attachments/assets/fe6977d6-4631-4a2f-be6d-b175f9308193)
+<img src="https://github.com/user-attachments/assets/5de6f101-c028-4c93-92b4-d7c02615b579" alt="Kavach_safety_tips" style="width:50%; height:50%;">
+<img src="https://github.com/user-attachments/assets/e0975331-aab6-40a6-bf22-4ff7524780ee" alt="Kavach_helpline_numbers" style="width:50%; height:50%;">
+<img src="https://github.com/user-attachments/assets/fe6977d6-4631-4a2f-be6d-b175f9308193" alt="Kavach_about_1" style="width:50%; height:50%;">
